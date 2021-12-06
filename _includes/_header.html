@@ -5,9 +5,10 @@
   <div id="project_subtitle">Recreational Mathematics Research Cluster</div>
   <nav role="navigation" id="site-nav" class="nav">
     <ul>
-      {% for link in site.data.navbar %}
-        <li><a href="{{link.page | post_url }}">{{ link.title }}</a></li>
-      {% endfor %}
+        <li><a href="{{ site.baseurl }}{% link index.md %}">Home</a></li>
+        <li><a href="{{ site.baseurl }}{% link upcoming.md %}">Upcoming seminars</a></li>
+        <li><a href="{{ site.baseurl }}{% link past.md %}">Past seminars</a></li>
+        <li><a href="{{ site.baseurl }}{% link committee.md %}">Organising committee</a></li>
     </ul>
   </nav>  
   </header>
