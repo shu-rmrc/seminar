@@ -33,3 +33,10 @@ ul.sociallist li {display:inline-block;padding-right:10px;padding-left:10px}
 .title, .speaker, .datetime, ul.sociallist {padding-top:10px;}
 
 h2 {background:none}
+
+nav ul {list-style:none;text-align:center;padding-top:30px}
+nav ul li {display:inline-block;padding:20px;font-size:20pt;font-family:'Merriweather'}
+nav ul li a, nav ul li a:active, nav ul li a:visited, nav ul li a:link
+  {color:rgba(178,47,71,1)}
+nav ul li a:hover
+  {color:#0F79D0;text-decoration:none;border-bottom:2px solid black}
