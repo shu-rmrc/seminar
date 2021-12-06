@@ -1,9 +1,9 @@
 # Site navigation links
 - title: Home
-  page: index.md
+  page: /
 - title: Upcoming seminars
-  page: upcoming.md
+  page: /upcoming
 - title: Past seminars
-  page: past.md
+  page: /past
 - title: Organising committee
-  page: committee.md
+  page: /committee
