@@ -41,12 +41,11 @@ nav ul li a, nav ul li a:active, nav ul li a:visited, nav ul li a:link
 nav ul li a:hover
   {color:#0F79D0;text-decoration:none;border-bottom:2px solid black}
 
-@media (max-width:800px){
+@media (max-width:900px){
 .talk {width:100%}
 #project_title, #project_subtitle {font-size:24pt}
-
 }
-@media (min-width:800px){
+@media (min-width:900px){
 .talk {max-width:580px}
 #project_title, #project_subtitle {font-size:36pt}
 }
