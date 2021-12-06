@@ -5,7 +5,7 @@ header.inner {background-color:#FFFFFFDD;}
 #project_title {color:black;text-shadow:none;text-align:center}
 .inner {max-width:1200px;}
 
-#project_title, #project_subtitle {text-align:center;font-family:'Merriweather'; color:rgba(178,47,71,1);letter-spacing:2px;font-size:36pt}
+#project_title, #project_subtitle {text-align:center;font-family:'Merriweather'; color:rgba(178,47,71,1);letter-spacing:2px}
 #project_title {font-weight:700}
 #project_subtitle {font-weight:400}
 
@@ -43,7 +43,10 @@ nav ul li a:hover
 
 @media (max-width:800px){
 .talk {width:100%}
+#project_title, #project_subtitle {font-size:24pt}
+
 }
 @media (min-width:800px){
 .talk {max-width:580px}
+#project_title, #project_subtitle {font-size:36pt}
 }
