@@ -43,7 +43,7 @@ nav ul li a:hover
 @media (max-width:900px){
 .talk {width:100%}
 #project_title, #project_subtitle {font-size:24pt}
-.inner {width:100%;}
+.inner {width:100%;max-width:unset}
 }
 
 @media (min-width:900px){
