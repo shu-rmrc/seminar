@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+body {background-image:url("/assets/img/header-bg.png");background-repeat:repeat}
+#header_wrap {background:transparent}
+header.inner {background-color:#FFFFFFDD;}
+#project_title {color:black;text-shadow:none;text-align:center}
+.inner {max-width:1200px;}
+
+#project_title, #project_subtitle {text-align:center;font-family:'Merriweather'; color:rgba(178,47,71,1);letter-spacing:2px;font-size:36pt}
+#project_title {font-weight:700}
+#project_subtitle {font-weight:400}
+
+#main_content_wrap {border:none;background-color:#FFFFFF}
+
+.talk {display:inline-block;max-width:580px;vertical-align:top}
+.talk img {max-width:500px;margin:auto;display:block; border:none; box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none; -o-box-shadow:none; -ms-box-shadow:none;}
+
+.speaker, .institute, .title,
+h1, h2, h3, h4, h5, h6 {font-family:'Merriweather';color:rgba(178,47,71,1);font-weight:normal}
+h2 {margin-top:50px}
+
+.speaker, .institute, .title, .datetime
+  {text-align:center;padding-top:5px}
+.speaker, .institute, .title
+  {font-size: 18pt}
+.datetime
+  {font-size: 15pt;font-weight:bold}
+
+ul.sociallist {list-style:none;padding:0px;text-align:center}
+ul.sociallist li {display:inline-block;padding-right:10px;padding-left:10px}
+
+.title, .institute, .datetime, ul.sociallist {padding-bottom:15px;}
+.title, .speaker, .datetime, ul.sociallist {padding-top:10px;}
