@@ -3,5 +3,12 @@
   <header class="inner">
   <div id="project_title">Sheffield Hallam University</div>
   <div id="project_subtitle">Recreational Mathematics Research Cluster</div>
+  <nav role="navigation" id="site-nav" class="nav">
+    <ul>
+      {% for link in site.data.navbar %}
+        <li><a href="{% post_url link.page %}">{{ link.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>  
   </header>
 </div>

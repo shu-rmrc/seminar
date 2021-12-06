@@ -1,0 +1,9 @@
+# Site navigation links
+- title: Home
+  page: index.md
+- title: Upcoming seminars
+  page: upcoming.md
+- title: Past seminars
+  page: past.md
+- title: Organising committee
+  page: committee.md
