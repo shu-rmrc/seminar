@@ -1,10 +1,10 @@
 <div class='talk'>
-{% if {{include.img}} %}<img src='{{include.img}}' alt='{{include.img_alt}}'>{% endif %}
+{% if {{include.img}} %}<img src='{{include.img}}' alt='{{include.img_alt | replace: "'", "’"}}'>{% endif %}
 <div class='innertext'>
 <div class='title'>{{include.title}}</div>
 <div class='speaker'>{{include.speaker}}</div>
 <div class='institute'>{{include.institute}}</div>
-<div class='datetime'>{{include.date}} {{include.time}}</div>
+<div class='datetime'>{{include.date}}{% if {{include.time}} %}<br />{{include.time}}{% endif %}</div>
 {% if {{include.website}} or {{include.email}} or {{include.github}} or {{include.twitter}} %}
 <ul class='sociallist'>
 {% if {{include.website}} %}<li><a href="{{include.website}}"><i class="fa fa-internet-explorer" aria-hidden="true"></i> {{ include.website | split:"//" | last}}</a></li>{% endif %}

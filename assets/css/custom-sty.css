@@ -12,8 +12,9 @@ header.inner {background-color:#FFFFFFDD;}
 
 #main_content_wrap {border:none;background-color:#FFFFFF}
 
-.talk {display:inline-block;max-width:580px;vertical-align:top}
+.talk {display:inline-block;max-width:580px;vertical-align:top;margin:5px 9px}
 .talk img {max-width:500px;margin:auto;display:block; border:none; box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none; -o-box-shadow:none; -ms-box-shadow:none;}
+.talk p {padding-left:20px;padding-right:20px}
 
 .speaker, .institute, .title,
 h1, h2, h3, h4, h5, h6 {font-family:'Merriweather';color:rgba(178,47,71,1);font-weight:normal}
@@ -31,3 +32,5 @@ ul.sociallist li {display:inline-block;padding-right:10px;padding-left:10px}
 
 .title, .institute, .datetime, ul.sociallist {padding-bottom:15px;}
 .title, .speaker, .datetime, ul.sociallist {padding-top:10px;}
+
+h2 {background:none}
