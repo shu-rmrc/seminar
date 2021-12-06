@@ -12,7 +12,7 @@ header.inner {background-color:#FFFFFFDD;}
 #main_content_wrap {border:none;background-color:#FFFFFF}
 
 .talk {display:inline-block;max-width:580px;vertical-align:top;margin:5px 9px}
-.talk img {max-width:500px;margin:auto;display:block; border:none; box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none; -o-box-shadow:none; -ms-box-shadow:none;}
+.talk img {max-width:90%;margin:auto;display:block; border:none; box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none; -o-box-shadow:none; -ms-box-shadow:none;}
 .talk p {padding-left:20px;padding-right:20px}
 
 .speaker, .institute, .title,
