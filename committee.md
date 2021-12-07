@@ -8,6 +8,8 @@ The Sheffield Hallam University Recreational Mathematics Research Cluster was es
 
 - 2021: Peter Rowlett (Sheffield Hallam University, UK)
 
+- 2022: Katie Steckles (Sheffield Hallam University, UK/freelance maths communicator)
+
 ### Current members
 
 - Alex Corner (Sheffield Hallam University, UK)
