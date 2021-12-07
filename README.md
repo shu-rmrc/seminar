@@ -43,4 +43,4 @@ The website can be served locally (so it can then be opened in a browser) by run
 bundle exec jekyll serve
 ```
 
-When changes are pushed to GitHub, the website will build automatically
+When changes are pushed to GitHub, the website will built automatically.
