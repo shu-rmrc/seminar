@@ -3,7 +3,3 @@ We aim to host talks on recent research (formal and informal) into mathematical 
 The research cluster is a world-wide group of people interested in these topics. To join the research cluster please subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](https://www.google.com/url?q=https%3A%2F%2Fwww.jiscmail.ac.uk%2FSHU-RMRC&sa=D&sntz=1&usg=AFQjCNENE6mx8ZdEZVSckovetPHsqedVoA).
 
 {% include_relative upcoming.md %}
-
-{% include_relative past.md %}
-
-{% include_relative committee.md %}
