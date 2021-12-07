@@ -10,7 +10,6 @@ header.inner {background-color:#FFFFFFDD;}
 
 #main_content_wrap {border:none;background-color:#FFFFFF}
 
-/*.talk {display:inline-block;vertical-align:top;}*/
 .talk img {max-width:90%;margin:auto;display:block; border:none; box-shadow:none; -webkit-box-shadow:none; -moz-box-shadow:none; -o-box-shadow:none; -ms-box-shadow:none;}
 .talk p {padding-left:20px;padding-right:20px}
 
@@ -40,7 +39,8 @@ nav ul li a, nav ul li a:active, nav ul li a:visited, nav ul li a:link
 nav ul li a:hover
   {color:#0F79D0;text-decoration:none;border-bottom:2px solid black}
 
-.talks {display: grid; grid-template-columns: repeat(auto-fill, minmax(500px,600px)); justify-content:center;}
+.talks {display: grid; justify-content:center;}
+.talk {padding-bottom:50px}
 
 @media (max-width:900px){
 #project_title, #project_subtitle {font-size:24pt}
@@ -51,3 +51,12 @@ nav ul li a:hover
 #project_title, #project_subtitle {font-size:36pt}
 .inner {max-width:1200px;}
 }
+
+@media (max-width:1100px){
+.talks {grid-template-columns: 1fr}
+}
+
+@media (min-width:1100px){
+.talks {grid-template-columns: repeat(2, 1fr)}
+}
+
