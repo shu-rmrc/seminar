@@ -2,6 +2,8 @@
 
 Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](https://www.google.com/url?q=https%3A%2F%2Fwww.jiscmail.ac.uk%2FSHU-RMRC&sa=D&sntz=1&usg=AFQjCNENE6mx8ZdEZVSckovetPHsqedVoA) to access seminars and past recordings. We will send details to join each online seminar to the mailing list near the the time. There is no cost to attend.
 
+<div class='talks'>
+
 {% include _talk.html
     img="assets/img/dragon.jpg"
     img_alt="Photograph of a woven piece made from red thread, forming an image of a dragon using different stitching techniques"
@@ -25,3 +27,5 @@ Dr Sabetta Matsumoto is an Assistant Professor in the School of Physics at the G
     time="9.30-10.15am GMT"
     description="The purpose of this presentation is to share with you my enthusiasm for chess problems. First, I will justify the claim that chess problems are mathematical. Then I will give an overview of the world of chess problems. Note that in discussing chess problems, no knowledge of chess strategy is required. Indeed, it can be a hinderance! Only knowledge of how the pieces move is required."
 %}
+
+</div>

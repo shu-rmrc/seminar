@@ -2,6 +2,8 @@
 
 Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](https://www.google.com/url?q=https%3A%2F%2Fwww.jiscmail.ac.uk%2FSHU-RMRC&sa=D&sntz=1&usg=AFQjCNENE6mx8ZdEZVSckovetPHsqedVoA) to access recordings of past talks. Once you are subscribed, you can access past messages to the list including links to recordings. Talks are recorded for members of the cluster only, so are not posted publicly, but there is no cost to join the mailing list. 
 
+<div class='talks'>
+
 {% include _talk.html
     img="assets/img/ritho.jpg"
     img_alt="Drawing of Rithmomachia board and pieces"
@@ -63,3 +65,4 @@ Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](ht
     description="A literature review establishes a working definition of recreational mathematics: a type of play which is enjoyable and requires mathematical thinking or skills to engage with. Typically, it is accessible to a wide range of people and can be effectively used to motivate engagement with and develop understanding of mathematical ideas or concepts. Recreational mathematics can be used in education for engagement and to develop mathematical skills, to maintain interest during procedural practice and to challenge and stretch students. It can also make cross-curricular links, including to history of mathematics. In undergraduate study, it can be used for engagement within standard curricula and for extra-curricular interest. Beyond this, there are opportunities to develop important graduate-level skills in problem-solving and communication. The development of a module ‘Game Theory and Recreational Mathematics’ is discussed. This provides an opportunity for fun and play, while developing graduate skills. It teaches some combinatorics, graph theory, game theory and algorithms/complexity, as well as scaffolding a Pólya-style problem-solving process. Assessment of problem-solving as a process via examination is outlined. Student feedback gives some indication that students appreciate the aims of the module, benefit from the explicit focus on problem-solving and understand the active nature of the learning."
 %}
 
+</div>
