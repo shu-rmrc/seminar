@@ -4,7 +4,7 @@ Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](ht
 
 <div class='talks'>
 
-{% include _talk.html img="assets/img/tangles.png" img_alt="Photograph of some green and yellow rope on a table, arranged in a tangle" speaker="Reading Group led by Dr Katie Steckles" title="Conway's Rational Tangles" date="Monday 21st February 2022" time="4-5pm GMT" description="NOTE: This session is cancelled due to planned industrial action in UK universities taking place on 21st February.
+{% include _talk.html img="assets/img/tangles.png" img_alt="Photograph of some green and yellow rope on a table, arranged in a tangle" speaker="Reading Group (CANCELLED)" title="Conway's Rational Tangles" date="Monday 21st February 2022" time="4-5pm GMT" description="NOTE: This session is cancelled due to planned industrial action in UK universities taking place on 21st February.
   
 We will be discussing the topic of John Conway's Rational Tangles, inspired by a Math Circle activity described by Tom Davis. Participants should aim to have read through [Tom's writeup of the activity](assets/papers/Conway's Rational Tangles - Tom Davis.pdf), and discussion can focus on either the topic itself or ways to run activities on it, depending on the preferences of those who attend.
 
