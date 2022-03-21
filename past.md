@@ -5,6 +5,18 @@ Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](ht
 <div class='talks'>
 
 {% include _talk.html
+    img="assets/img/roulette.jpeg"
+    img_alt="Photograph of a roulette wheel"
+    speaker="Adam Atkinson"
+    title="Maths and Self-Defence"
+    date="Monday 21st March 2022"
+    time="9.30-10.15am GMT"
+    description="When I was at school some of my teachers (in both maths and physics) used to set us exercises where we were shown arguments which were not necessarily correct and had to identify problems in them. This is how I first encountered the flawed Martingale gambling strategy. I will talk about another gambling myth with some international spread that seems less well known, partly as an excuse to talk about Markov Chains. Maths can be useful to defend oneself from charlatans!
+
+Adam runs games and puzzles tables at open days: He used to be known as *Pisa University Fraud Department* but in recent years *L'Omino dei Giochi* (Little Games Guy) is what people have been calling him and he can live with that."
+%}
+
+{% include _talk.html
     img="assets/img/dragon.jpg"
     img_alt="Photograph of a woven piece made from red thread, forming an image of a dragon using different stitching techniques"
     speaker="Dr Sabetta Matsumoto"
@@ -27,8 +39,8 @@ Dr Sabetta Matsumoto is an Assistant Professor in the School of Physics at the G
     time="9.30-10.15am GMT"
     description="The purpose of this presentation is to share with you my enthusiasm for chess problems. First, I will justify the claim that chess problems are mathematical. Then I will give an overview of the world of chess problems. Note that in discussing chess problems, no knowledge of chess strategy is required. Indeed, it can be a hinderance! Only knowledge of how the pieces move is required."
 %}
-    
-    
+
+
 {% include _talk.html
     img="assets/img/ritho.jpg"
     img_alt="Drawing of Rithmomachia board and pieces"
