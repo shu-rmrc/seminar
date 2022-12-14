@@ -17,6 +17,17 @@ Adam runs games and puzzles tables at open days: He used to be known as *Pisa Un
 %}
 
 {% include _talk.html
+    img="assets/img/chess.jpg"
+    img_alt="Chess pieces and board"
+    speaker="Prof Terence Mills"
+    institute="La Trobe University, Australia"
+    title="On chess problems"
+    date="Monday 6th December 2021"
+    time="9.30-10.15am GMT"
+    description="The purpose of this presentation is to share with you my enthusiasm for chess problems. First, I will justify the claim that chess problems are mathematical. Then I will give an overview of the world of chess problems. Note that in discussing chess problems, no knowledge of chess strategy is required. Indeed, it can be a hinderance! Only knowledge of how the pieces move is required."
+%}
+
+{% include _talk.html
     img="assets/img/dragon.jpg"
     img_alt="Photograph of a woven piece made from red thread, forming an image of a dragon using different stitching techniques"
     speaker="Dr Sabetta Matsumoto"
@@ -28,18 +39,6 @@ Adam runs games and puzzles tables at open days: He used to be known as *Pisa Un
 
 Dr Sabetta Matsumoto is an Assistant Professor in the School of Physics at the Georgia Institute of Technology. She is passionate about using textiles, 3D printing, and virtual reality to teach geometry and topology to the public."
 %}
-
-{% include _talk.html
-    img="assets/img/chess.jpg"
-    img_alt="Chess pieces and board"
-    speaker="Prof Terence Mills"
-    institute="La Trobe University, Australia"
-    title="On chess problems"
-    date="Monday 6th December 2021"
-    time="9.30-10.15am GMT"
-    description="The purpose of this presentation is to share with you my enthusiasm for chess problems. First, I will justify the claim that chess problems are mathematical. Then I will give an overview of the world of chess problems. Note that in discussing chess problems, no knowledge of chess strategy is required. Indeed, it can be a hinderance! Only knowledge of how the pieces move is required."
-%}
-
 
 {% include _talk.html
     img="assets/img/ritho.jpg"
