@@ -5,18 +5,6 @@ Subscribe to the [SHU Recreational Mathematics Research Cluster mailing list](ht
 <div class='talks'>
 
 {% include _talk.html
-    img="assets/img/erika_chess.png"
-    img_alt="Diagram from Erika's paper"
-    speaker="Erika Rold&aacute;n"
-    title="Art Gallery Problems with Rook and Queen Vision"
-    date="Wednesday 8th June 2022"
-    time="4-4.45pm BST"
-    description="How many chess rooks or queens does it take to guard all squares of a given polyomino? This question is a version of the art gallery problem in which the guards can ‘’see’’ whichever squares the rook or queen attacks. We show that n/2 rooks or n/3 queens are sufficient and sometimes necessary to guard a polyomino with n tiles. We then prove that finding the minimum number of rooks or queens needed to guard a polyomino is NP-hard. These results also apply to d-dimensional rooks and queens on d-dimensional polycubes. Finally, we use bipartite matching theorems to describe sets of non-attacking rooks on polyominoes (this is joint work with Hannah Alpert).
-
-[Erika Rold&aacute;n](www.erikaroldan.net) is currently a Marie Sk&#322;odowska-Curie Fellow in the EuroTechPostdoc Programme at the Technische Universit&auml;t M&uuml;nchen (TUM) and EPFL Lausanne. Her research interests include biomathematics, stochastic topology, topological and geometric data analysis, extremal topological combinatorics, discrete configuration spaces, recreational mathematics, learning analytics, and educational technology."
-%}
-
-{% include _talk.html
     img="assets/img/tangles.png"
     img_alt="Photograph of some green and yellow rope on a table, arranged in a tangle"
     speaker="Reading Group"
